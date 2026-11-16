@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+datos_simulados/
+reglas.json
+parte_diario.csv
