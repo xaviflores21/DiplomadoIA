@@ -9,7 +9,7 @@ Agente que atiende los pedidos de Tesorería de una empresa inmobiliaria: proces
 
 - **Notebook con salidas:** [`asistente_tesoreria.ipynb`](asistente_tesoreria.ipynb)
 - **Abrir en Colab:** https://colab.research.google.com/drive/14vZV7INk0TR-TXkAsO2GmVz5N4gjemJj?usp=sharing
-- **Video demo (3 a 5 min):** [PENDIENTE: enlace de YouTube no listado / Drive / Loom]
+- **Video demo (3 a 5 min):** : https://urubovillage-my.sharepoint.com/:v:/r/personal/jflores_urubovillage_com/Documents/ShowMore/Demo%20Parte%20Diario.mp4?d=w1b9fa73f21b64898b4b4092682f84a75&csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=T2zpAu
 - **Resultados de la evaluación:** [`resultados_evaluacion.md`](resultados_evaluacion.md) (lo genera el notebook)
 
 ---
